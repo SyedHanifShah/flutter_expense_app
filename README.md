@@ -1,16 +1,14 @@
-# expense_track
+# Flutter expense_track App
 
-A new Flutter project.
+A Flutter Expense Track project for both IOS and Adroid.
 
-## Getting Started
+[https://github.com/SyedHanifShah/flutter_expense_app/lib/assets/image1.png]
+[https://github.com/SyedHanifShah/flutter_expense_app/lib/assets/image2.png]
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Tack Stack
+Dart
+Flutter
+uuid
+util
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
